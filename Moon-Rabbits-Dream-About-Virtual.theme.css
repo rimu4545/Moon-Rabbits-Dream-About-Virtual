@@ -28,7 +28,7 @@
 @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-animation.css');
 
 /* Add transparency for background images */
-/* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-image.css'); */
+/* @import url('https://i.gyazo.com/1cc88ee2a7f100eb83c6eacd2b75425c.jpg'); */
 
 /* Pop Effect */
 @import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
@@ -41,7 +41,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "Shigure ui";
 
     /* General Colors */
     --border-color: #da4a60;
